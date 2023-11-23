@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![My GitHub stats](https://github-stats-alpha-ten.vercel.app/api?username=bokobza&show_icons=true&theme=nightowl&count_private=true&hide_rank=true&hide=contribs&include_all_commits=true&custom_title=Public%20repos%20stats)
+
 <!--
 **bokobza/bokobza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
